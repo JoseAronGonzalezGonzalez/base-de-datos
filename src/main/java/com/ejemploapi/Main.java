@@ -5,10 +5,7 @@
  */
 package com.ejemploapi;
 import com.routes.*;
-/**
- *
- * @author jzuniga
- */
+
 public class Main {
     public static void main(String[] args) {
         new PersonRoute();

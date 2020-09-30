@@ -6,13 +6,9 @@ import static spark.Spark.*;
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * nd open the template in the editor.
  */
 
-/**
- *
- * @author jzuniga
- */
 public class PersonRoute {
 
     public PersonRoute() {

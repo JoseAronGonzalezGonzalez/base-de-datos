@@ -5,10 +5,7 @@
  */
 package com.models;
 
-/**
- *
- * @author jzuniga
- */
+
 public class Person {
     private int id;
     private String name;

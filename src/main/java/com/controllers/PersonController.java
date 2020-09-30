@@ -8,10 +8,7 @@ package com.controllers;
 import com.models.Person;
 import java.util.ArrayList;
 import com.services.PersonService;
-/**
- *
- * @author jzuniga
- */
+
 public class PersonController {
     
     public ArrayList<Person> index() {

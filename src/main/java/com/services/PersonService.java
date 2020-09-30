@@ -6,10 +6,7 @@
 package com.services;
 import com.models.Person;
 import java.util.ArrayList;
-/**
- *
- * @author jzuniga
- */
+
 public class PersonService {
     private String[][] arrayPersons = {
         {"1", "Norma", "norma@mail.com"}, 
